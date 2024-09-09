@@ -9,8 +9,6 @@ Also used [formspree](https://formspree.io) in contact form.
 - [HTML](https://www.w3schools.com/html/default.asp)
 - [CSS](https://www.w3schools.com/css/default.asp)
 
-[view screenshots](https://winston-dsouza.github.io/#projects)
-
 ![index](https://github.com/winston-dsouza/winston-dsouza.github.io/blob/master/images/ecom/productgif.gif)
 
 ## Set Up Instructions For Running Website
